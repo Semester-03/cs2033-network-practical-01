@@ -1,0 +1,13 @@
+# Packet Tracer backups
+*.pka.bak
+*.pkt.bak
+
+# Large capture temp files
+*.pcapng.tmp
+*.pcap.tmp
+
+# OS & Editor artifacts
+.vscode/
+.idea/
+Thumbs.db
+*~
